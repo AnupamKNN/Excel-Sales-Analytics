@@ -49,8 +49,29 @@ This report provides a detailed analysis of profit and loss statements on a mont
 
 **- Enhancing Financial Planning:** Finance analytics aligns financial planning efforts with strategic goals, ensuring resource allocation and budgetary decisions are in line with organizational objectives.
 
+
 **Role of Reports:**
 
 **- Align Financial Planning with Strategic Goals:** Detailed reports enable aligning financial planning efforts with strategic objectives, ensuring resources are allocated efficiently.
 
 **- Instill Confidence in Financial Outlook:** Well-presented reports instill confidence in stakeholders by providing a clear picture of the organization's financial health and future prospects.
+
+
+## Technical & Soft Skills:
+
+### Technical Skills:
+
+- [x]  ETL Methodology Mastery: Proficient in the Extract, Transform, Load (ETL) methodology, ensuring seamless data integration and processing.
+- [x] Power Query Expertise: Skilled in generating date tables and manipulating data using Power Query, enhancing data analysis capabilities.
+- [x] Fiscal Date Derivation: Ability to derive fiscal months and quarters, enabling accurate financial analysis and reporting.
+- [x] Data Model Establishment: Proficient in establishing data model relationships with Power Pivot, facilitating comprehensive data analysis and visualization.
+- [x] Supplementary Data Integration: Capable of incorporating supplementary data sources into existing data models, enriching analytical insights.
+- [x] DAX Proficiency: Utilizes Data Analysis Expressions (DAX) to create calculated columns, enabling advanced calculations and metrics derivation.
+
+
+### Soft Skills:
+
+- [x] Comprehensive Understanding of Sales & Finance Reports: Refined comprehension of sales and finance reports, ensuring accurate interpretation and actionable insights.
+- [x] User-Centric Report Design: Designs reports with empathy in mind, prioritizing user needs and enhancing report usability and effectiveness.
+- [x] Optimization of Report Generation: Meticulously fine-tunes report generation processes for optimal efficiency, ensuring timely delivery of high-quality reports.
+- [x] Systematic Report Building Approach: Develops a systematic approach to devising report-building plans, enhancing consistency and scalability in report development processes.
