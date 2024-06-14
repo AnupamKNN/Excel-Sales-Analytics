@@ -76,6 +76,20 @@ This report provides a detailed analysis of profit and loss statements on a mont
 - [x] Optimization of Report Generation: Meticulously fine-tunes report generation processes for optimal efficiency, ensuring timely delivery of high-quality reports.
 - [x] Systematic Report Building Approach: Develops a systematic approach to devising report-building plans, enhancing consistency and scalability in report development processes.
 
+## Customer Performance Report
+![](https://github.com/AnupamKNN/Excel-Sales-Analytics/blob/main/ScreenShots/Screenshot%202024-05-07%20144745.png)
+
+## Market Performance vs Target Report
+![](https://github.com/AnupamKNN/Excel-Sales-Analytics/blob/main/ScreenShots/Screenshot%202024-05-07%20144746.png)
+
+## P&L by Fiscal Year
+![](https://github.com/AnupamKNN/Excel-Sales-Analytics/blob/main/ScreenShots/Screenshot%202024-05-07%20144747.png)
+
+## P&L for Markets
+![](https://github.com/AnupamKNN/Excel-Sales-Analytics/blob/main/ScreenShots/Screenshot%202024-05-07%20144748.png)
+
+##  P&L by Months
+![](https://github.com/AnupamKNN/Excel-Sales-Analytics/blob/main/ScreenShots/Screenshot%202024-05-07%20144749.png)
 
 ### Usage
 
